@@ -20,21 +20,18 @@ Despite having the 9th-grade data removed THS kept its spot as the number two pe
 Overall average math score at THS went down from 83.41% to 83.35%, while average reading scores went up from 83.84 to 83.89% after 9th grade was removed.
 <b>How does replacing the 9th grade scores affect scores by school spending?</b>
 I put the spending ranges into 5 bins: "$586", "$586-630", "$631-645", and "$646-675". Initial data showed: 
-![original_spending]
-(https://github.com/JovanHumphrey/School_District_Analysis/blob/main/Images/original_spending.JPG)
+![original_spending](https://github.com/JovanHumphrey/School_District_Analysis/blob/main/Images/original_spending.JPG)
 After removing the 9th grade data it looked like 
 ![updated_spending](https://github.com/JovanHumphrey/School_District_Analysis/blob/main/Images/update_spending.JPG)
 <b>How does replacing the 9th grade scores affect scores by school size?</b>
 I put school sizes into 3 bins: "Small (<1000)", "Medium (1000-1999)", and "Large (2000-5000)". Initial date showed 
-![original_size]
-(https://github.com/JovanHumphrey/School_District_Analysis/blob/main/Images/original_size.JPG)
+![original_size](https://github.com/JovanHumphrey/School_District_Analysis/blob/main/Images/original_size.JPG)
 After removing the 9th grade data it looked like 
 ![updated_size](https://github.com/JovanHumphrey/School_District_Analysis/blob/main/Images/update_size.JPG)
 <b>How does replacing the 9th grade scores by school type?</b>
 Lastly the schools were divided into two types: distric schools and charter schools. Initially the data looked like 
 ![original_type](https://github.com/JovanHumphrey/School_District_Analysis/blob/main/Images/original_type.JPG)
 After removing the 9th grade data it looked like 
-![updated_type]
-(https://github.com/JovanHumphrey/School_District_Analysis/blob/main/Images/update_type.JPG)
+![updated_type](https://github.com/JovanHumphrey/School_District_Analysis/blob/main/Images/update_type.JPG)
 ## Summary
 In the end I was able to analyze the aggregate date without including the faulty scores provided by testing. Though the changes to the scores and percentages didn't change a lot without that information it is still useful to get accurate metrics. If the accusations of dishonesty are later discovered to be incorrect, THS's 9th grade values can be easily added back.
